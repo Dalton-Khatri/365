@@ -10,3 +10,87 @@ everything is widget
 4. Colmn Widget
 5. Image Widget
 
+------------------------------------------------------------------
+Flutter Tutorial for Beginners #3 - Dart Primer
+----------------------------------------------------------------------
+
+void main(){
+string name = 'dalton';
+name = '30';
+print (name);
+}
+
+................................................................
+"DYnamic data class" ----- can be used to change the values of anytime (not realted to single data types)
+................................................................
+"Arrow function"
+ 
+for example:
+
+ void main()
+{
+int age = getage();
+print(age);
+}
+
+int getage() => 30;    
+
+.......................................................
+"List" Same as array just new name;
+but we can print it easily like
+
+void main()
+{
+List names=['dalton','darwin'];
+print(names);
+}
+
+to add new members --------- 
+
+names.add('deelok');
+
+to remove members --------
+
+names.remove('dalton');
+
+we can keep any type of data inside the list but if we want a single datatype to be assigned inside the list
+to do that we need to add <data type> after List keyword
+
+for example
+
+List<string> name=['dalton','darwin'];
+
+...............................................................
+ Dart is OOP
+so we do have classes
+class: blueprint of objects(have methods and data)
+same as C++ for declaration
+
+class User{
+string username='mario';
+int age=25;
+
+void login()
+{
+print('user logged in');
+}
+
+
+void main()
+{
+//creating an object
+User dalton = User();
+//dalton is the object name
+print(dalton.age);
+dalton.login();
+
+..............................................................
+
+for inheritance
+
+keyword "extends"
+
+class superuser extends User{}
+
+
+
