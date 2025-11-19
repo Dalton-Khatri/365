@@ -92,5 +92,24 @@ keyword "extends"
 
 class superuser extends User{}
 
+........................................................................
+#5
+..................................................................
 
+makiing an flutter proejct from stratch
 
+import 'package:flutter/material.dart';
+---> this imports the dart language
+
+void main() => runApp(MaterialApp(
+home: Text(Hey Wagwan!),
+));
+
+MaterialApp()---->it is a root widget that Use google material its like wrapper for rest of our widgets
+----> we should put comma after our proterty value 
+
+#5----> just made android stuido operating(checking)
+
+-------------------------------------------------------------------
+#6
+---------------------------------------------------------------------
