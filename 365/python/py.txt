@@ -1,0 +1,29 @@
+Learning Python
+
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.w3schools.com/python/
+
+
+1. Variables
+2. Input/Output: input(), print()
+3. Type Conversion: 
+4. Formatted Strings
+5. String Methods: Funtions that belongs to string like .upper()
+6. Arithematic Operations
+7. Operator Precedance
+        Parenthesis
+        Exponential 
+        Multiplication or division
+        Addition or Substraction
+8. Math Function
+        abs() ----> absolute Function
+        need to import math, its math module
+9. If Statement
+        if, elif, else
+10. Logical Operator
+        or, and, not simply
+11. Python Variables
+12. Python Data Types
+13. Python Casting
+14. Python Strings
+
