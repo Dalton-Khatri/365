@@ -26,4 +26,6 @@ https://www.w3schools.com/python/
 12. Python Data Types
 13. Python Casting
 14. Python Strings
-
+15. Comparison Operator
+16. while loops
+17. for loops
