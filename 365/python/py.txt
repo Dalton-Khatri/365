@@ -29,3 +29,9 @@ https://www.w3schools.com/python/
 15. Comparison Operator
 16. while loops
 17. for loops
+18. List
+19. List Methods
+20. Unpacking: tuple, List
+21. List
+22. Dictionary
+23. Function
