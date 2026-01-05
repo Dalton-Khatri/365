@@ -35,3 +35,7 @@ https://www.w3schools.com/python/
 21. List
 22. Dictionary
 23. Function
+
+https://www.youtube.com/watch?v=k9TUPpGqYTo
+
+This is for string, working with textual data
