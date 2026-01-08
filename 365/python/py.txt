@@ -47,3 +47,30 @@ This is for Dictionary, day 6
 https://www.w3schools.com/python/python_file_handling.asp
 
 This is for file handling, day 6
+
+https://medium.com/@sheyiogundijo/clean-code-in-a-nutshell-ac7aa5f80a99
+
+Article for clean code, day 7
+
+## Week 1 Progress (Jan 1-7, 2026)
+
+### Projects Built:
+1. **Calculator** - Basic arithmetic operations
+2. **Guessing Game** - Number guessing with loops
+3. **To-Do List** - Task management CLI
+4. **Password Checker** - Security validation
+5. **Dictionary App** - English-Nepali translator
+
+### Skills Learned:
+- Python basics
+- Variables & data types
+- Loops & conditionals
+- Lists & dictionaries
+- File handling
+- Git & GitHub
+
+### Next Week Goals:
+- Start LeetCode
+- Data structures
+- First mini project
+

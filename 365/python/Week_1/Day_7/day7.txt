@@ -1,0 +1,5 @@
+Other people should be able to read/reuse/refactor your code easily…
+Some Basic Clean Code Rules:
+1. Naming
+2. Don’t Repeat yourself
+3. Comment descriptively and briefly only where necessary
