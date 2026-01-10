@@ -1,0 +1,5 @@
+Solve 1st Leet Code problem
+
+Two sum problem
+
+It is in leetcode folder
