@@ -1,3 +1,5 @@
+-------------------------------------------------------------------------------------------------------------------------------------------
+Week 1:
 Learning Python
 
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
@@ -74,3 +76,12 @@ Article for clean code, day 7
 - Data structures
 - First mini project
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Week2:
+Functions & First LeetCode
+
+Day 9:
+https://youtu.be/9Os0o3wzS_I
+for functions in python
+W3Schools Functions: https://w3schools.com/python/python_functions.asp
