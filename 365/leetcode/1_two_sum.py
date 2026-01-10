@@ -1,13 +1,19 @@
-#day_8 of 365 days of coding
-
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        n=len(nums)
-        output = [int]
-        for number in nums:
+        n=len(nums)  #first we calculated the length of list
+        for number in nums:  #loop around the list
             i=0
-            while i<n:
-                if(number+nums[i]==target):
-                    if(nums.index(number)!=i):
-                        return[nums.index(number), i]
+            while i<n: # while loop from 1st index of list
+                if(number+nums[i]==target): #checking if it matches the targert
+                    if(nums.index(number)!=i): #checking if it is the same index
+                        return[nums.index(number), i] #returning the output
                 i+=1
+
+
+
+
+        
+
+
+
+        
