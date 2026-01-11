@@ -1,0 +1,27 @@
+DAY 10 - Saturday, Jan 10 - 4 hrs
+
+🎯 WEEKEND PROJECT 1: Expense Tracker CLI
+
+📺 Reference Video:
+"Python Projects for Beginners" - freeCodeCamp (watch relevant parts): https://youtu.be/8ext9G7xspg
+
+📝 Project Requirements:
+Add expense (amount, category, date, note)
+View all expenses
+View by category
+Calculate total spent
+Save to text file
+Load on restart
+
+📝 Tasks:
+Plan project structure (30 min)
+Implement add expense (45 min)
+Implement view expenses (45 min)
+Implement file save/load (45 min)
+Test thoroughly (30 min)
+Write README (20 min)
+Push to GitHub (5 min)
+
+✅ Checkpoint: First real project complete!
+
+In a repo: https://github.com/Dalton-Khatri/Expense_Tracker_CLI
