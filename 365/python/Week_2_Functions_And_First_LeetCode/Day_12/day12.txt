@@ -1,0 +1,11 @@
+DAY 12 - Monday, Jan 12 - 1 hr
+
+📝 LeetCode Practice:
+
+Problem: "Valid Anagram" (Easy): https://leetcode.com/problems/valid-anagram
+
+Time: 45 min (struggle, then check hints if needed)
+Write detailed comments explaining logic (15 min)
+Push to GitHub
+
+✅ Checkpoint: 2 LeetCode solved
