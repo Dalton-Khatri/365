@@ -1,0 +1,14 @@
+DAY 11 - Sunday, Jan 11 - 1.5 hrs
+📚 Reading:
+
+Python List Comprehensions - Real Python: https://realpython.com/list-comprehension-python/
+Python Exception Handling: https://realpython.com/python-exceptions/
+
+
+📝 Tasks:
+Learn: try/except, error handling (30 min)
+Improve expense tracker with error handling (40 min)
+Add: Input validation (20 min)
+
+✅ Checkpoint: Error handling added
+
