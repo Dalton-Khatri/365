@@ -1,0 +1,9 @@
+DAY 14 - Wednesday, Jan 14 - 1 hr
+
+📝 LeetCode + Review:
+Problem: "Contains Duplicate" (Easy): https://leetcode.com/problems/contains-duplicate
+Time: 30 min
+Review: All Week 2 code (20 min)
+Update: Progress tracker (10 min)
+
+✅ Week 2 Complete: 3 LeetCode, functions mastered, 1 project
