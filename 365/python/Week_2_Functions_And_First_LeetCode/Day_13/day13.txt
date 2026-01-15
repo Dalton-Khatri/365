@@ -1,0 +1,15 @@
+DAY 13 - Tuesday, Jan 13 - 1.5 hrs
+
+📚 Reading:
+
+W3Schools Lambda: https://w3schools.com/python/python_lambda.asp
+Python List Comprehensions: https://w3schools.com/python/python_lists_comprehension.asp
+
+📝 Tasks:
+
+Learn: List comprehensions, lambda (30 min)
+Practice: Convert loops to comprehensions (30 min)
+Build: Data filter/mapper functions (25 min)
+Push to GitHub (5 min)
+
+✅ Checkpoint: Advanced Python syntax
