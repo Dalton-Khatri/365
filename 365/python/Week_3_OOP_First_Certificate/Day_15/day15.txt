@@ -1,0 +1,17 @@
+DAY 15 - Thursday, Jan 15 - 1.5 hrs
+
+📺 Videos:
+
+"Python OOP Tutorial 1" - Corey Schafer (15 min): https://youtu.be/ZDa-Z5JzLYM
+
+📚 Reading:
+
+W3Schools Classes: https://w3schools.com/python/python_classes.asp
+
+📝 Tasks:
+Watch video (15 min)
+Learn: Classes, objects, init (30 min)
+Build: Student class with methods (30 min)
+Build: Bank account class (15 min)
+
+✅ Checkpoint: OOP basics understood
