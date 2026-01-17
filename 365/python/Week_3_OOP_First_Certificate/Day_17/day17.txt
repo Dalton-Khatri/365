@@ -1,0 +1,26 @@
+🎯 CERTIFICATE DAY 1: KAGGLE PYTHON'
+
+📚 Resource:
+
+Kaggle Python Course: https://kaggle.com/learn/python
+
+📝 Course Structure:
+Hello, Python (30 min)
+Functions and Getting Help (30 min)
+Booleans and Conditionals (30 min)
+Lists (30 min)
+Loops and List Comprehensions (30 min)
+Strings and Dictionaries (30 min)
+Working with External Libraries (30 min)
+
+📝 Tasks:
+Complete all 7 lessons with exercises (3.5 hrs)
+
+Take final quiz (30 min)
+✅ EARN CERTIFICATE 1: Kaggle Python!
+
+Download certificate, add to LinkedIn (15 min)
+
+LeetCode: "Valid Parentheses" (45 min): https://leetcode.com/problems/valid-parentheses
+
+✅ Checkpoint: First certificate earned! 🎉
