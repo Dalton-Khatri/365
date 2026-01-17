@@ -24,3 +24,10 @@ Download certificate, add to LinkedIn (15 min)
 LeetCode: "Valid Parentheses" (45 min): https://leetcode.com/problems/valid-parentheses
 
 ✅ Checkpoint: First certificate earned! 🎉
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Completed the Certification
+
+https://www.kaggle.com/learn/certification/daltonkhatri/python
