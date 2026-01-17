@@ -1,0 +1,6 @@
+DAY 16 - Friday, Jan 16 - 1 hr
+
+📝 LeetCode:
+Problem: "Best Time to Buy/Sell Stock" (Easy): https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+
+✅ Checkpoint: 4 LeetCode solved
