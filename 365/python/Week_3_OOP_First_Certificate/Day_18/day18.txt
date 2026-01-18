@@ -1,0 +1,10 @@
+DAY 18 - Sunday, Jan 18 - 1.5 hrs
+📺 Videos:
+"Python OOP Tutorial 2-3" - Corey Schafer (30 min)
+📚 Reading:
+File Handling Advanced: https://realpython.com/read-write-files-python/
+📝 Tasks:
+Learn: CSV, JSON file handling (40 min)
+Build: CSV to JSON converter (40 min)
+Push to GitHub (10 min)
+✅ Checkpoint: File formats mastered
