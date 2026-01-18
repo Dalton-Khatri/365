@@ -1,0 +1,7 @@
+DAY 19 - Monday, Jan 19 - 1 hr
+
+📝 LeetCode:
+
+Problem: "Group Anagrams" (Medium - first Medium!): https://leetcode.com/problems/group-anagrams
+Don't worry if you need hints - Medium problems are challenging!
+✅ Checkpoint: 6 LeetCode solved
