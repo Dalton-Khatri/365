@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ram Sharma",
+        "age": "20",
+        "city": "Kathmandu",
+        "grade": "A"
+    },
+    {
+        "name": "Sita Rai",
+        "age": "19",
+        "city": "Pokhara",
+        "grade": "B"
+    },
+    {
+        "name": "Hari Thapa",
+        "age": "21",
+        "city": "Lalitpur",
+        "grade": "A"
+    },
+    {
+        "name": "Maya Gurung",
+        "age": "20",
+        "city": "Bhaktapur",
+        "grade": "B"
+    }
+]
