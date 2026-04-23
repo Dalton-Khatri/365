@@ -1,0 +1,13 @@
+DAY 20 - Tuesday, Jan 20 - 1.5 hrs
+
+📚 Reading:
+Python Modules: https://realpython.com/python-modules-packages/
+Python Import: https://w3schools.com/python/python_modules.asp
+
+📝 Tasks:
+Learn: Modules, packages, import (30 min)
+Create: Your own module with utilities (30 min)
+Reorganize: Expense tracker into modules (25 min)
+Push to GitHub (5 min)
+
+✅ Checkpoint: Code organization improved
